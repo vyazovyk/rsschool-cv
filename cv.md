@@ -9,7 +9,7 @@
 My target - work in the company as a js developer and regular personal growth.
 My priorities - learn JavaScript Front-End (ES6, Angular, React, etc.) & Back-End (Node.js).
 My strengths - purposefulness, perseverance, aspiration.
-Experience - since 2011.
+Experience - since 07.2011.
 ### Skills:
 - Desing - Photoshop, UI/UX.
 - Markup - HTML (HTML5), CSS (CSS3, SCSS), JS (JS, JQuery). Working with preprocessors.
@@ -23,7 +23,7 @@ I love JS.
 ```
 ***
 ### Experience
-Since 2011 - now. Worked in IT companies in Kharkov (Inet-Studio, SeoTop, AgileTeam) and freelance.
+Since 07.2011 - now. Worked in IT companies in Kharkov (Inet-Studio, SeoTop, AgileTeam) and freelance.
 ***
 #### Education
 National Aerospace University "Kharkiv Aviation Institute", 2002 - 2008.
