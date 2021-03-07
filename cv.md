@@ -13,6 +13,7 @@ Experience - since 07.2011.
 ### Skills:
 - Desing - Photoshop, UI/UX.
 - Markup - HTML (HTML5), CSS (CSS3, SCSS), JS (JS, JQuery). Working with preprocessors.
+- Website development - on CMS Modx Revo.
 ***
 #### Code examples
 I love JS.
